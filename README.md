@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Suray Mand I'm a Data Analyst, from bangalore</h2>
+<h2 align="left">Hi 👋! My name is Suray M and I'm a Data Analyst, from bangalore</h2>
 
 ###
 
